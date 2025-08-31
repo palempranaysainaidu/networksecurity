@@ -1,0 +1,2 @@
+[ 2025-09-01 04:35:01,337 ] 20 root - INFO - Initiate the data ingestion
+[ 2025-09-01 04:35:03,582 ] 53 root - INFO - Data exported to feature store at Artifacts\09_01_2025_04_34_56\data_ingestion\feature_store\phisingData.csv
